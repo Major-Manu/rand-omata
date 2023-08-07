@@ -1,4 +1,4 @@
-from random import random
+import random
 class Random_Data():
     
     def data_matrix(no_of_rows_of_data : int,no_of_column_of_data : int):
