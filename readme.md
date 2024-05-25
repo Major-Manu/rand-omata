@@ -1,2 +1,6 @@
-Hello there!
-//will update this file later (or you can do this)//
+Hello there! 
+
+Use this command to import the library into python :
+```
+pip install rand-omata
+```
